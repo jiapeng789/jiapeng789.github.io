@@ -5,23 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-<!-- ## Dissertation
-- **W. Wang**. (2018) Adaptive Control of Personalized Driver Assistance Systems. *Ph.D., Mechanical Engineering, Beijing Institute of Technology* (SAE-China Best Dissertation Awards) -->
-
 ## Journal/Conference
-<!-- 
-*Corresponding Author -->
-
 <table style="width:100%">
     <thead>
 		<tr>
@@ -32,14 +16,12 @@ author_profile: true
 			<th width="20%">Journal/Proceedings</th>
 		</tr>
     </thead>
+	
 	<tbody>
   <tr id="wang2022trustworthy" class="entry">
           <td>
         <div class="polaroid">
           <img src="../images/jiapeng.png" width="600" class="research_img">
-          <!-- <div class="container">
-          Local Prior Sensitivity
-          </div> -->
         </div>
       </td>
           <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
