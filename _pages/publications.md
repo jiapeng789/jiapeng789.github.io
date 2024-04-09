@@ -21,9 +21,9 @@ author_profile: true
           <td>
         <div class="polaroid">
           <!-- <img src="" width="600" class="research_img">-->
-          <!-- <div class="container">
+          <div class="container">
           Local Prior Sensitivity
-          </div> -->
+          </div> 
         </div>
       </td>
           <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
