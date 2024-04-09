@@ -20,7 +20,7 @@ author_profile: true
   <tr id="wang2022trustworthy" class="entry">
           <td>
         <div class="polaroid">
-          <img src="" width="600" class="research_img">
+          <!-- <img src="" width="600" class="research_img">-->
           <!-- <div class="container">
           Local Prior Sensitivity
           </div> -->
