@@ -23,7 +23,7 @@ author_profile: true
           <!-- <img src="" width="600" class="research_img">-->
         </div>
       </td>
-          <td><strong>P. Jia</strong>, J. Gong, et al.</td>
+          <td><strong>P. Jia</strong>, <br> J. Gong, et al.</td>
       <td>
         Structured Bird's-Eye View Road Scene Understanding from Surround Video<br>
                 <p class="infolinks"> 
