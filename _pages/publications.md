@@ -20,7 +20,7 @@ author_profile: true
   <tr id="wang2022trustworthy" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/zhang2023shareable.png" width="600" class="research_img">
+          <img src="" width="600" class="research_img">
           <!-- <div class="container">
           Local Prior Sensitivity
           </div> -->
@@ -31,13 +31,6 @@ author_profile: true
         Inter-Individual Shareable Driving Style Analysis using CAN Signals with Latent Dirichlet Allocation<br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('zhang2023shareable','abstract')">Abstract</a>]
-                  <!-- [<a href="javascript:toggleInfo('zhang2023shareable','bibtex')">BibTeX</a>]  -->
-                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-                  <!--[<a href="https://arxiv.org/abs/2210.08256">arXiv</a>] -->
-                  <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
-                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
-                  <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
-                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
         </td>
       <td>2023</td>
