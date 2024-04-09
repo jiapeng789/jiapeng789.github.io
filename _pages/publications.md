@@ -26,18 +26,18 @@ author_profile: true
            </div>
         </div>
       </td>
-          <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
+          <td><strong>P. Jia</strong>, et al.</td>
       <td>
-        Inter-Individual Shareable Driving Style Analysis using CAN Signals with Latent Dirichlet Allocation<br>
+        Structured Bird's-Eye View Road Scene Understanding from Surround Video<br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('zhang2023shareable','abstract')">Abstract</a>]
               </p>
         </td>
-      <td>2023</td>
-      <td>IEEE Transactions on Intelligent Transportation Systems (Under review)</td>
+      <td>2024</td>
+      <td>IEEE Intelligent Vehicles Symposium (Accept)</td>
   </tr>
   <tr id="abs_zhang2023shareable" class="abstract noshow">
-      <td colspan="5"><div align="justify"> <b>Abstract</b>: Human driving behavior can recognize their driving style. Despite this, it remains pending (i) how the driving style of a naturally aggressive or calm person would evolve and manifest along their driving behavior and (ii) how one individual's driving behavior relates to another driver's behavior. Our insight is that individuals' driving behavior is a sequence of responses/executions to the mixture of some inter-individual shareable latent driving styles inherent in their minds. This paper presents a generic statistical framework to quantitatively analyze the changes in an individual's driving styles that are shareable among individuals.  To learn and analyze these driving styles, we segment sequential driving operations over a temporal space into a fixed granularity as the elemental components of driving styles and formulate the learning task as a topic-extraction problem with latent Dirichlet allocation (LDA). The validation and verification were conducted with 100 drivers in different driving settings, ranging from urban to highway. Experimental results show that our proposed framework can effectively learn the shareable driving styles and describe the dynamic process of driving behavior. We found that three driving styles learned from driving behavior are shared among individual drivers. Naturally aggressive drivers usually have a higher proportion of aggressiveness than other drivers, but they can be calmer according to factors such as the traffic environment. </div>
+      <td colspan="5"><div align="justify"> <b>Abstract</b>: Autonomous vehicles require an accurate understanding of the surrounding road scene for navigation. One crucial task in this understanding is the bird's-eye view (BEV) road network estimation. However, accurately extracting the BEV road network around the vehicle in complex scenes, considering variations in lane curvature and shape, remains a challenge. This paper aims to accurately represent and learn the BEV road network around the vehicle for structured road scene understanding. Specifically, we propose a road network representation, i.e., representing the lane centerline as an ordered point set and the road network as a directed graph, which accurately describes lane centerline instances and lane topological relationships in complex scenes. Then, we introduce an online road network estimation framework that takes on-board surround-view video as input and utilizes hierarchical query embedding to extract the BEV road network around the vehicle. Furthermore, we present a temporal aggregation module to alleviate occlusion issues in road scenes and enhance the accuracy of road network estimation by incorporating historical frame information flexibly. Finally, to validate the efficacy of our method for structured BEV road scene understanding, we conduct extensive experiments on the nuScenes dataset. </div>
     </td>
   </tr>
   
