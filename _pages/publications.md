@@ -36,7 +36,7 @@ author_profile: true
   <tr id="wang2022trustworthy" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/zhang2023shareable.png" width="600" class="research_img">
+          <img src="../images/jiapeng.png" width="600" class="research_img">
           <!-- <div class="container">
           Local Prior Sensitivity
           </div> -->
@@ -66,7 +66,7 @@ author_profile: true
   <tr id="zhang2023dataset" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/zhang2023dataset.png" width="600" class="research_img">
+          <img src="../images/jiapeng.png" width="600" class="research_img">
           <!-- <div class="container">
           Local Prior Sensitivity
           </div> -->
