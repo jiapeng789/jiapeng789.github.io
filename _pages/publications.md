@@ -23,7 +23,7 @@ author_profile: true
           <!-- <img src="" width="600" class="research_img">-->
           <div class="container">
           Local Prior Sensitivity
-          </div> 
+           
         </div>
       </td>
           <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
