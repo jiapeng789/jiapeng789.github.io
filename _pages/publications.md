@@ -23,7 +23,7 @@ author_profile: true
           <!-- <img src="" width="600" class="research_img">-->
         </div>
       </td>
-          <td><strong>P. Jia</strong>, et al.</td>
+          <td><strong>P. Jia</strong>, J. Gong, et al.</td>
       <td>
         Structured Bird's-Eye View Road Scene Understanding from Surround Video<br>
                 <p class="infolinks"> 
@@ -31,7 +31,7 @@ author_profile: true
               </p>
         </td>
       <td>2024</td>
-      <td>IEEE Intelligent Vehicles Symposium (Accept)</td>
+      <td>2024 IEEE Intelligent Vehicles Symposium (Accept)</td>
   </tr>
   <tr id="abs_zhang2023shareable" class="abstract noshow">
       <td colspan="5"><div align="justify"> <b>Abstract</b>: Autonomous vehicles require an accurate understanding of the surrounding road scene for navigation. One crucial task in this understanding is the bird's-eye view (BEV) road network estimation. However, accurately extracting the BEV road network around the vehicle in complex scenes, considering variations in lane curvature and shape, remains a challenge. This paper aims to accurately represent and learn the BEV road network around the vehicle for structured road scene understanding. Specifically, we propose a road network representation, i.e., representing the lane centerline as an ordered point set and the road network as a directed graph, which accurately describes lane centerline instances and lane topological relationships in complex scenes. Then, we introduce an online road network estimation framework that takes on-board surround-view video as input and utilizes hierarchical query embedding to extract the BEV road network around the vehicle. Furthermore, we present a temporal aggregation module to alleviate occlusion issues in road scenes and enhance the accuracy of road network estimation by incorporating historical frame information flexibly. Finally, to validate the efficacy of our method for structured BEV road scene understanding, we conduct extensive experiments on the nuScenes dataset. </div>
@@ -41,21 +41,21 @@ author_profile: true
   <tr id="zhang2023dataset" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/jiapeng.png" width="600" class="research_img">
+          <!-- <img src="../images/jiapeng.png" width="600" class="research_img">-->
         </div>
       </td>
-          <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
+          <td><strong>P. Jia</strong>, Y. Jiang, et al.</td>
       <td>
-        100 Drivers, 2200 km: A Natural Dataset of Driving Styles toward Human-centered Intelligent Driving Systems <br>
+        SRSU: An Online Road Map Detection and Network Estimation for Structured Bird's-Eye View Road Scene Understanding <br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('zhang2023dataset','abstract')">Abstract</a>]
               </p>
         </td>
-      <td>2023</td>
-      <td>2023 IEEE Intelligent Vehicles Symposium (under review)</td>
+      <td>2024</td>
+      <td>IEEE Transactions on Intelligent Vehicles (Under review)</td>
   </tr>
   <tr id="abs_zhang2023dataset" class="abstract noshow">
-      <td colspan="5"><div align="justify"> <b>Abstract</b>: Effective driving style analysis is critical to developing human-centered intelligent driving systems that consider drivers' preferences. However, the approaches and conclusions of most related studies are diverse and inconsistent because no unified datasets tagged with driving styles exist as a reliable benchmark. The absence of explicit driving style labels makes verifying different approaches and algorithms difficult. This paper provides a new benchmark by constructing a Natural Dataset of Driving Style (NDDStyle) tagged with the subjective evaluation of 100 drivers' driving styles. In our dataset, the subjective quantification of each driver's driving style is from themselves and an expert according to the Likert-scale questionnaire. The testing routes are selected to cover various driving scenarios, including highways, urban, high-way ramps, and signalized traffic. The collected driving data consists of lateral and longitudinal manipulation information collected from CAN, including steering angle, steering speed, lateral acceleration, throttle position, throttle rate, brake pressure, etc. This driving-style dataset is the first to provide detailed manipulation data with driving-style tags.   </div>
+      <td colspan="5"><div align="justify"> <b>Abstract</b>: However, considering the flexibility of autonomous vehicles and the variations in lane curvature and shape, the online and accurate extraction of road maps with fine-grained boundaries and road networks with lane topology in a unified framework remains challenging. This paper proposes SRSU, an online road map detection and network estimation framework for structured bird's-eye view road scene understanding. Specifically, we introduce a hierarchical map representation, \emph{i.e.}, representing the road map as a set of ordered point sets with equivalent permutations and the road network as a directed graph, accurately describing the fine-grained map boundaries and lane topology in a unified framework. Building upon the above representation, we propose an online hierarchical map construction framework. It utilizes two sets of learnable hierarchical query embeddings to extract road maps with fine-grained boundaries and road networks with lane topologies, achieving a comprehensive understanding of the road scene. Furthermore, we introduce three empirical modules to enhance the accuracy of hierarchical map construction. These modules are termed auxiliary task prediction, multi-modal distillation, and higher-order interaction, responsible for enhancing the model's representational capabilities and providing valuable auxiliary information for subsequent tasks, generating robust features for final tasks, and learning the association information between different tasks, respectively. Finally, experiments on the nuScenes dataset demonstrate the proposed framework's effectiveness while highlighting the empirical module's superiority. Code will be available at \href{https://github.com/jiapeng789/SRSU}{https://github.com/jiapeng789/SRSU}.</div>
     </td>
    </tr>
  
