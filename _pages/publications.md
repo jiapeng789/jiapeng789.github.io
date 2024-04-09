@@ -21,9 +21,6 @@ author_profile: true
           <td>
         <div class="polaroid">
           <!-- <img src="" width="600" class="research_img">-->
-          <div class="container">
-          Local Prior Sensitivity
-           </div>
         </div>
       </td>
           <td><strong>P. Jia</strong>, et al.</td>
