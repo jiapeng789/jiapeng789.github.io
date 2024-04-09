@@ -16,33 +16,32 @@ author_profile: true
 			<th width="20%">Journal/Proceedings</th>
 		</tr>
     </thead>
-	
-  <tbody>
+	<tbody>
   <tr id="wang2022trustworthy" class="entry">
-       	<td>
-        	<div class="polaroid">
-          		<img src="../images/jiapeng.png" width="600" class="research_img">
-        	</div>
-      	</td>
-	
-      	<td>
-      		<strong>P. Jia</strong>, et al.
-	</td>
- 
-      	<td>
-        	Structured Bird's-Eye View Road Scene Understanding from Surround Video<br>
-        	<p class="infolinks"> 
-                  	[<a href="javascript:toggleInfo('zhang2023shareable','abstract')">Abstract</a>]
-              	</p>
+          <td>
+        <div class="polaroid">
+          <img src="../images/research/zhang2023shareable.png" width="600" class="research_img">
+          <!-- <div class="container">
+          Local Prior Sensitivity
+          </div> -->
+        </div>
+      </td>
+          <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
+      <td>
+        Inter-Individual Shareable Driving Style Analysis using CAN Signals with Latent Dirichlet Allocation<br>
+                <p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('zhang2023shareable','abstract')">Abstract</a>]
+                  <!-- [<a href="javascript:toggleInfo('zhang2023shareable','bibtex')">BibTeX</a>]  -->
+                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+                  <!--[<a href="https://arxiv.org/abs/2210.08256">arXiv</a>] -->
+                  <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+              </p>
         </td>
-		
-      	<td>
-       		2023
-	</td>
-      	
-       	<td>
-       		IEEE Transactions on Intelligent Transportation Systems (Under review)
-        </td>
+      <td>2023</td>
+      <td>IEEE Transactions on Intelligent Transportation Systems (Under review)</td>
   </tr>
   <tr id="abs_zhang2023shareable" class="abstract noshow">
       <td colspan="5"><div align="justify"> <b>Abstract</b>: Human driving behavior can recognize their driving style. Despite this, it remains pending (i) how the driving style of a naturally aggressive or calm person would evolve and manifest along their driving behavior and (ii) how one individual's driving behavior relates to another driver's behavior. Our insight is that individuals' driving behavior is a sequence of responses/executions to the mixture of some inter-individual shareable latent driving styles inherent in their minds. This paper presents a generic statistical framework to quantitatively analyze the changes in an individual's driving styles that are shareable among individuals.  To learn and analyze these driving styles, we segment sequential driving operations over a temporal space into a fixed granularity as the elemental components of driving styles and formulate the learning task as a topic-extraction problem with latent Dirichlet allocation (LDA). The validation and verification were conducted with 100 drivers in different driving settings, ranging from urban to highway. Experimental results show that our proposed framework can effectively learn the shareable driving styles and describe the dynamic process of driving behavior. We found that three driving styles learned from driving behavior are shared among individual drivers. Naturally aggressive drivers usually have a higher proportion of aggressiveness than other drivers, but they can be calmer according to factors such as the traffic environment. </div>
