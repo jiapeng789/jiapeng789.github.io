@@ -67,7 +67,7 @@ author_profile: true
       </td>
           <td><strong>P. Jia</strong>, <br> Z. Ju, <br> et al.</td>
       <td>
-        An Online Environment Perception Framework Based on Multi-Level Information Fusion and Bird's-Eye View Representation <br>
+        An Online Environment Perception Framework with Multi-Level Information Fusion and Bird's-Eye View Representation <br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('jia2024dataset','abstract')">Abstract</a>]
               </p>
